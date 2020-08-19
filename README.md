@@ -87,6 +87,14 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 ## Imagenes de la aplicación
 
 ![Alt](/img/inicio.png "Inicio")
+![Alt](/img/actions.png "Actions Sheet")
+![Alt](/img/alerts.png "Alerts")
+![Alt](/img/prompt.png "Prompt")
+![Alt](/img/button.png "Button")
+![Alt](/img/cards1.png "Cards1")
+![Alt](/img/cards2.png "Cards2")
+![Alt](/img/check.png "Checks")
+![Alt](/img/chip.png "Chip")
 
 
 
